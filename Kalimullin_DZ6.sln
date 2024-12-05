@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_Zoopark", "DZ\DZ_Zoopark.csproj", "{52A0CE37-70AC-4319-A08C-1E9D0E74D94D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov_DZ", "Tumakov_DZ\Tumakov_DZ.csproj", "{54124E4E-5610-42E8-AF8A-A000F483FEC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52A0CE37-70AC-4319-A08C-1E9D0E74D94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A0CE37-70AC-4319-A08C-1E9D0E74D94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A0CE37-70AC-4319-A08C-1E9D0E74D94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A0CE37-70AC-4319-A08C-1E9D0E74D94D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54124E4E-5610-42E8-AF8A-A000F483FEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54124E4E-5610-42E8-AF8A-A000F483FEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54124E4E-5610-42E8-AF8A-A000F483FEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54124E4E-5610-42E8-AF8A-A000F483FEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB56A0AA-726F-4157-AA54-4EC32B820FA0}
+	EndGlobalSection
+EndGlobal
